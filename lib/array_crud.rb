@@ -3,10 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  shows = ["mad man", "rick and morty", "family guy", "fleabag"]
 end
 
 def add_element_to_end_of_array(array, element)
+  array = []
   
 end
 
